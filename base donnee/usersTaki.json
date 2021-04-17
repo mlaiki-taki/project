@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6069024718b92c15bf72c2bf"
+  },
+  "name": "taki mlaiki jd",
+  "email": "mlaiki.raki@gmail.com",
+  "mobilePhone": "50526237",
+  "password": "111111",
+  "__v": 0,
+  "avatar": "https://static.remove.bg/remove-bg-web/a6c5f1017e9c0bdc648aad9debd2f40a17d45814/assets/start-0e837dcc57769db2306d8d659f53555feb500b3c5d456879b9c843d1872e7baa.jpg",
+  "region": "Tunis",
+  "likedPost": []
+},{
+  "_id": {
+    "$oid": "6069028079317d15d257d272"
+  },
+  "name": "takoi",
+  "email": "mlaiki.takoi07@gmail.com",
+  "mobilePhone": "53960154",
+  "password": "123123",
+  "Region": "Tunis",
+  "__v": 0,
+  "avatar": "https://st3.depositphotos.com/3369547/12852/v/950/depositphotos_128525738-stock-illustration-woman-female-avatar-isolated.jpg"
+},{
+  "_id": {
+    "$oid": "606f700da7dca42480a56a9b"
+  },
+  "name": "test",
+  "email": "mlaiki.takoi@gmail.com",
+  "mobilePhone": "53960151",
+  "password": "111111",
+  "region": "Ariana",
+  "__v": 0
+}]

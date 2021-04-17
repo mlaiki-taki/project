@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "6075f9ee7835ae3713640887"
+  },
+  "openToSubscribe": true,
+  "media": [
+    "https://static.remove.bg/remove-bg-web/a6c5f1017e9c0bdc648aad9debd2f40a17d45814/assets/start-0e837dcc57769db2306d8d659f53555feb500b3c5d456879b9c843d1872e7baa.jpg"
+  ],
+  "isPublic": true,
+  "isValid": false,
+  "title": "test",
+  "destination": "gamra",
+  "departure": {
+    "$date": "2021-04-20T07:56:56Z"
+  },
+  "description": "hiiii we all going to die",
+  "admin": {
+    "$oid": "6069024718b92c15bf72c2bf"
+  },
+  "contact": {
+    "email": "mlaiki.raki#gmail.com",
+    "PhoneNUmber": "53960154"
+  },
+  "groupe": {
+    "$oid": "6075fd286a000737d1fea7f2"
+  },
+  "__v": 0,
+  "participants": [
+    "6069024718b92c15bf72c2bf"
+  ]
+},{
+  "_id": {
+    "$oid": "6075fa5e7835ae3713640888"
+  },
+  "openToSubscribe": true,
+  "media": [
+    "http://clipart-library.com/image_gallery2/Space-PNG-Picture.png"
+  ],
+  "isPublic": true,
+  "isValid": false,
+  "title": "hi people",
+  "destination": "tabarka",
+  "departure": {
+    "$date": "2021-04-20T07:56:56Z"
+  },
+  "description": "nice travel",
+  "admin": {
+    "$oid": "6069024718b92c15bf72c2bf"
+  },
+  "contact": {
+    "email": "mlaiki.raki#gmail.com",
+    "PhoneNUmber": "53960154"
+  },
+  "groupe": {
+    "$oid": "6075fd286a000737d1fea7f2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075faba7835ae3713640889"
+  },
+  "openToSubscribe": true,
+  "media": [
+    "https://www.pngfind.com/pngs/m/136-1361631_hell-png-hell-background-16-9-transparent-png.png"
+  ],
+  "isPublic": true,
+  "isValid": false,
+  "title": "final Distination",
+  "destination": "hell",
+  "departure": {
+    "$date": "2021-04-20T07:56:56Z"
+  },
+  "description": "nihahahahahahaha",
+  "admin": {
+    "$oid": "6069024718b92c15bf72c2bf"
+  },
+  "contact": {
+    "email": "mlaiki.raki#gmail.com",
+    "PhoneNUmber": "53960154"
+  },
+  "groupe": {
+    "$oid": "6075fd286a000737d1fea7f2"
+  },
+  "__v": 0
+}]

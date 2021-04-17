@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6075fd286a000737d1fea7f2"
+  },
+  "members": [
+    {
+      "$oid": "6069024718b92c15bf72c2bf"
+    }
+  ],
+  "posts": [],
+  "name": "walking dead",
+  "description": "how to enjoy hell",
+  "admin": {
+    "$oid": "6069024718b92c15bf72c2bf"
+  },
+  "avatar": "https://www.pngfind.com/pngs/m/136-1361631_hell-png-hell-background-16-9-transparent-png.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6078c407ec15c3b9631c3bf4"
+  },
+  "members": [
+    {
+      "$oid": "6069024718b92c15bf72c2bf"
+    }
+  ],
+  "posts": [],
+  "name": "let's camp",
+  "description": "how to enjoy hell",
+  "admin": {
+    "$oid": "6069024718b92c15bf72c2bf"
+  },
+  "avatar": "https://campingfortents.com/images/campingeuropa.jpg",
+  "__v": 0
+}]
